@@ -8,5 +8,6 @@ int static_var(){
 int main(){
     cout<<static_var()<<endl;
     cout<<static_var()<<endl;
+    cout<<"Hello Wrold";
     return 0;
 }
