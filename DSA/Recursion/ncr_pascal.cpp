@@ -8,6 +8,6 @@ int ncr_pascle(int n, int r)
 }
 int main()
 {
-cout<<ncr_pascle(4,2);
+    cout<<ncr_pascle(9,9);
     return 0;
 }
