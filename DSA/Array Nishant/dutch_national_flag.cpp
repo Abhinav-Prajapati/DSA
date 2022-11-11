@@ -23,7 +23,7 @@ int main(){
     int arr[100]={1,1,0,0,2,0,1,2,2,0};
 
     int low=0,mid=0,high=10;
-    int i=0 ;
+  
 
     while(mid<=high){
         if(arr[mid]==0) {
@@ -39,7 +39,6 @@ int main(){
         
             high--;
         }
-        i++;
     }
     printArray(arr,10);
     return 0;
