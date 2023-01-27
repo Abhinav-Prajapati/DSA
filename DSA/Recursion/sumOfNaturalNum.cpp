@@ -10,8 +10,6 @@ int sum(int num)
 }
 int main()
 {
-    cout<<sum(10);
+    cout << sum(10);
     return 0;
 }
-// om patel
-// Abhinav
